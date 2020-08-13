@@ -1,0 +1,6 @@
+
+[ -n "$PS1" ] \
+    && . ~/.zsh_profile
+
+# at the end to make sure
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
