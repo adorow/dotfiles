@@ -27,7 +27,7 @@ install_oh_my_zsh_plugins() {
     )
 
     local plugin=""
-    local basePluginsFolder="~/.oh-my-zsh/custom/plugins"
+    local basePluginsFolder="$HOME/.oh-my-zsh/custom/plugins"
 
     for plugin in "${OMZ_PLUGINS[@]}"; do
 
