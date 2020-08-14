@@ -4,5 +4,5 @@
 [ -n "$PS1" ] \
     && . ~/.zsh_profile
 
-# at the end to make sure
+# at the end to make sure it'll overwrite the reverse backsearch
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
