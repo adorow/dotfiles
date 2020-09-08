@@ -25,6 +25,8 @@ brew_install "fd" "fd"
 brew_install "fzf" "fzf"
 execute "/usr/local/opt/fzf/install" "fzf command line tools"
 
+brew_install "htop" "htop"
+
 brew_install "httpie" "httpie"
 
 brew_install "ripgrep" "ripgrep"
