@@ -22,7 +22,6 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 ./intellij.sh
 ./misc.sh
 ./misc_tools.sh
-./mtmr.sh
 ./ngrok.sh
 ./../npm.sh
 ./postman.sh
