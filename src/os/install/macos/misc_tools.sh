@@ -33,4 +33,6 @@ brew_install "ripgrep" "ripgrep"
 
 brew_install "tree" "tree"
 
+brew_install "watch" "watch"
+
 brew_install "wget" "wget"
