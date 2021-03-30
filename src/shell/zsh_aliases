@@ -20,7 +20,7 @@ alias y="yarn"
 alias vim='nvim'
 
 # https://github.com/sharkdp/fd
-alias find='fd'
+# alias find='fd' # excluded as it is not compatible with find
 # https://github.com/ogham/exa
 alias ls='exa'
 # https://github.com/sharkdp/bat
